@@ -6,7 +6,10 @@ web.whatsapp.com##._2HUCB
 www.youtube.com##ytd-shorts.ytd-page-manager.style-scope
 
 ! mobile instagram shorts
-www.instagram.com##div._abcm._ab9o._ab9m._ab9h._ab97._ab94._ab8w:nth-of-type(2) > ._a6hd._abp3.icdlwmnq.s3jn8y49.rn8ck1ys.cr00lzj9.nch0832m.rl78xhln.oxkhqvkx.srn514ro.kmwttqpk.kjdc1dyq.l7ghb35v.m8h3af8h.s5oniofx.rse6dlih.fsf7x5fv.bdao358l.fq87ekyn.b3qcqh3k.r86q59rh.n3hqoq4p.nu7423ey.qi72231t > ._abp5 > ._ab6-
+instagram.com##svg[aria-label="Reels"]
+instagram.com##a[href="/reels/"]
+instagram.com##a[href="/explore/"]
+instagram.com##article video
 
 ! mobile yt shorts
 m.youtube.com##shorts-video
